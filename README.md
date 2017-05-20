@@ -1,2 +1,1 @@
-# WinterIntern
-My WinterInternship
+# My project's readme
